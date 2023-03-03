@@ -1,0 +1,54 @@
+baseURL = "https://www.hannahgooding.dev/"
+languageCode = "en-uk"
+title = "Hannah Gooding"
+theme = "hugo-coder"
+
+[params]
+  author = "Hannah Gooding"
+  info = "Full Stack Software Engineer"
+  description = "Hannah Gooding's developer website"
+
+  colorScheme = "auto"
+
+# Social Links
+[[params.social]]
+  name = "Github"
+  icon = "fa fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/hannahgooding/"
+[[params.social]]
+  name = "Linkedin"
+  icon = "fa fa-linkedin fa-2x"
+  weight = 2
+  url = "https://www.linkedin.com/in/hannahwsgooding/"
+[[params.social]]
+  name = "Twitter"
+  icon = "fa fa-twitter fa-2x"
+  weight = 3
+  url = "https://twitter.com/hannahwsgooding/"
+
+# Menu Links
+[[menu.main]]
+  name = "About"
+  weight = 1
+  url = "about/"
+[[menu.main]]
+  name = "Speaking"
+  weight = 2
+  url = "speaking/"
+[[menu.main]]
+  name = "Writing"
+  weight = 3
+  url = "writing/"
+[[menu.main]]
+  name = "Awards"
+  weight = 4
+  url = "awards/"
+[[menu.main]]
+  name = "Press"
+  weight = 5
+  url = "press/"
+[[menu.main]]
+  name = "Contact"
+  weight = 6
+  url = "contact/"

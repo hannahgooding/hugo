@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hannah Gooding</title>
+    <link>https://www.hannahgooding.dev/</link>
+    <description>Recent content on Hannah Gooding</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Fri, 30 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.hannahgooding.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How I customise my Terminal with Oh My Zsh (macOS)</title>
+      <link>https://www.hannahgooding.dev/writing/how-i-customise-my-terminal-with-oh-my-zsh-macos/</link>
+      <pubDate>Fri, 30 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.hannahgooding.dev/writing/how-i-customise-my-terminal-with-oh-my-zsh-macos/</guid>
+      <description>Originally posted on Dev.to</description>
+    </item>
+    
+    <item>
+      <title>Making CSS animations using a sprite sheet</title>
+      <link>https://www.hannahgooding.dev/writing/making-css-animations-using-a-sprite-sheet/</link>
+      <pubDate>Wed, 03 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.hannahgooding.dev/writing/making-css-animations-using-a-sprite-sheet/</guid>
+      <description>Originally posted on LogRocket Blog</description>
+    </item>
+    
+    <item>
+      <title>VS Code shortcuts and tricks that I wish I knew sooner</title>
+      <link>https://www.hannahgooding.dev/writing/vs-code-shortcuts-and-tricks-that-i-wish-i-knew-sooner/</link>
+      <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.hannahgooding.dev/writing/vs-code-shortcuts-and-tricks-that-i-wish-i-knew-sooner/</guid>
+      <description>Originally posted on Dev.to</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://www.hannahgooding.dev/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.hannahgooding.dev/about/</guid>
+      <description>Hannah = { pronouns: &amp;#39;she/her&amp;#39;, location: &amp;#39;remote, UK&amp;#39;, current_role: &amp;#39;Full Stack Engineer @ EDITED&amp;#39;, } Tech Stack Link to heading Experience Link to heading %%{init: {&#34;theme&#34;:&#34;neutral&#34;}}%% flowchart BT subgraph 2019 A[&#34;Introduction to Web Development @ Code First Girls&#34;] end subgraph 2020 direction BT B[&#34;Full Stack Development Bootcamp @ Founders and Coders&#34;] C[&#34;Front End Developer @ Aplisay&#34;] D[&#34;Associate Engineer @ Lyst&#34;] end subgraph 2021 E[&#34;Engineer 1 @ Lyst&#34;] end subgraph 2022 direction BT F[&#34;</description>
+    </item>
+    
+    <item>
+      <title>Awards</title>
+      <link>https://www.hannahgooding.dev/awards/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.hannahgooding.dev/awards/</guid>
+      <description>🏅 Makers Women in Software Power List Winner 2022
+🏅 TechWomen100 Award Winner 2021</description>
+    </item>
+    
+    <item>
+      <title>Email Me</title>
+      <link>https://www.hannahgooding.dev/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.hannahgooding.dev/contact/</guid>
+      <description>hannahwsgooding@gmail.com</description>
+    </item>
+    
+    <item>
+      <title>Press</title>
+      <link>https://www.hannahgooding.dev/press/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.hannahgooding.dev/press/</guid>
+      <description>January 2023 Link to heading How to break into tech with an arts background - Engineering &amp;amp; Technology Magazine (Online &amp;amp; Print)
+October 2022 Link to heading #MoreThan1in4 campaign video - The Confidence Community
+Women in Software Panel Promotional Video - Next Tech Girls
+May 2022 Link to heading Winners of 2022 Makers Women in Software Power List announced - Computer Weekly</description>
+    </item>
+    
+    <item>
+      <title>Speaking</title>
+      <link>https://www.hannahgooding.dev/speaking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.hannahgooding.dev/speaking/</guid>
+      <description>The University of Manchester - Alliance MBS Business School Link to heading Digital Skills 101 (with Mariam Hussein) - February 2023
+Next Tech Girls X Makers Academy Link to heading Women in Software Panel (Langley Park School For Girls) - October 2022
+codebar Festival Link to heading How To Git Rebase and Why You Should: A Beginner&amp;rsquo;s Guide - March 2022
+FemTechConf Link to heading How To Avoid Gatekeeping In Tech - September 2021</description>
+    </item>
+    
+  </channel>
+</rss>

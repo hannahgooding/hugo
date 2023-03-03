@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Articles on Hannah Gooding</title>
+    <link>https://www.hannahgooding.dev/writing/</link>
+    <description>Recent content in Articles on Hannah Gooding</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Fri, 30 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.hannahgooding.dev/writing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How I customise my Terminal with Oh My Zsh (macOS)</title>
+      <link>https://www.hannahgooding.dev/writing/how-i-customise-my-terminal-with-oh-my-zsh-macos/</link>
+      <pubDate>Fri, 30 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.hannahgooding.dev/writing/how-i-customise-my-terminal-with-oh-my-zsh-macos/</guid>
+      <description>Originally posted on Dev.to</description>
+    </item>
+    
+    <item>
+      <title>Making CSS animations using a sprite sheet</title>
+      <link>https://www.hannahgooding.dev/writing/making-css-animations-using-a-sprite-sheet/</link>
+      <pubDate>Wed, 03 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.hannahgooding.dev/writing/making-css-animations-using-a-sprite-sheet/</guid>
+      <description>Originally posted on LogRocket Blog</description>
+    </item>
+    
+    <item>
+      <title>VS Code shortcuts and tricks that I wish I knew sooner</title>
+      <link>https://www.hannahgooding.dev/writing/vs-code-shortcuts-and-tricks-that-i-wish-i-knew-sooner/</link>
+      <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.hannahgooding.dev/writing/vs-code-shortcuts-and-tricks-that-i-wish-i-knew-sooner/</guid>
+      <description>Originally posted on Dev.to</description>
+    </item>
+    
+  </channel>
+</rss>
