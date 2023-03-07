@@ -6,7 +6,16 @@ title: "About Me"
 Hannah = {
     pronouns: 'she/her',
     location: 'remote, UK',
-    current_role: 'Full Stack Engineer @ EDITED',
+    current_roles: [
+        'Full Stack Engineer @ EDITED',
+        'Code First Girls Ambassador',
+        'Code First Girls Confident Coach'
+    ],
+    volunteering: [
+        'Code First Girls Instructor: Introduction to Data & SQL',
+        'codebar Coach',
+        'Founders And Coders Mentor'
+    ]
 }
 ```
 
@@ -51,11 +60,3 @@ end
 B --> C --> D
 F --> G
 {{< /mermaid >}}
-
-## Volunteering
-
-- Code First Girls Community Ambassador
-- Code First Girls Confidence Coach
-- Code First Girls Instructor: Introduction to Data & SQL
-- codebar Coach
-- Founders And Coders Mentor

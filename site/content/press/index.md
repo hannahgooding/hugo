@@ -2,6 +2,10 @@
 title: "Press"
 ---
 
+#### March 2023
+
+[_SheCanCode Spotlight Series:_](https://www.shecancode.io/blog/shecancode-spotlight-series-hannah-gooding-full-stack-engineer-edited) - SheCanCode
+
 #### January 2023
 
 [_How to break into tech with an arts background_](https://eandt.theiet.org/content/articles/2023/01/how-to-break-into-tech-with-an-arts-background/) - Engineering & Technology Magazine (Online & Print)
