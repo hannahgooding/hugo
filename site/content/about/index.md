@@ -9,12 +9,13 @@ Hannah = {
     current_roles: [
         'Full Stack Engineer @ EDITED',
         'Code First Girls Ambassador',
-        'Code First Girls Confident Coach'
+        'Code First Girls Confidence Coach'
     ],
     volunteering: [
         'Code First Girls Instructor: Introduction to Data & SQL',
         'codebar Coach',
-        'Founders And Coders Mentor'
+        'Founders And Coders Mentor',
+        'Next Tech Girls Role Model'
     ]
 }
 ```

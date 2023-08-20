@@ -2,6 +2,10 @@
 title: "Speaking"
 ---
 
+#### Next Tech Girls - Next Tech Fest
+
+_Introduction to Web Development Workshop_ - August 2023
+
 #### The University of Manchester - Alliance MBS Business School
 
 _Digital Skills 101_ (with Mariam Hussein) - February 2023
