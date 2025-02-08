@@ -8,7 +8,7 @@ title: "Press"
 
 #### March 2023
 
-[_SheCanCode Spotlight Series:_](https://www.shecancode.io/blog/shecancode-spotlight-series-hannah-gooding-full-stack-engineer-edited) - SheCanCode
+[_SheCanCode Spotlight Series_](https://www.shecancode.io/blog/shecancode-spotlight-series-hannah-gooding-full-stack-engineer-edited) - SheCanCode
 
 #### January 2023
 
@@ -19,8 +19,6 @@ title: "Press"
 [_#MoreThan1in4 campaign video_](youtube.com/shorts/HKtSrqrl6d8) - The Confidence Community
 
 [_Women in Software Panel Promotional Video_](https://www.linkedin.com/feed/update/urn:li:activity:6983453351250141184/) - Next Tech Girls
-
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6983453350470025216" height="694" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
 #### May 2022
 
