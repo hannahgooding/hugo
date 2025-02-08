@@ -24,11 +24,6 @@ title = "Hannah Gooding"
   icon = "fa fa-linkedin fa-2x"
   weight = 2
   url = "https://www.linkedin.com/in/hannahwsgooding/"
-[[params.social]]
-  name = "Twitter"
-  icon = "fa fa-twitter fa-2x"
-  weight = 3
-  url = "https://twitter.com/hannahwsgooding/"
 
 # Menu Links
 [[menu.main]]
