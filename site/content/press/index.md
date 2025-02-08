@@ -2,6 +2,10 @@
 title: "Press"
 ---
 
+#### November 2023
+
+[_Code First Girls Ambassador Stories_](https://codefirstgirls.com/blog/ambassador-stories-hannah-gooding/) - Code First Girls
+
 #### March 2023
 
 [_SheCanCode Spotlight Series:_](https://www.shecancode.io/blog/shecancode-spotlight-series-hannah-gooding-full-stack-engineer-edited) - SheCanCode
