@@ -5,18 +5,11 @@ title: "About Me"
 ```python
 Hannah = {
     pronouns: 'she/her',
-    location: 'remote, UK',
+    location: 'London, UK',
     current_roles: [
-        'Full Stack Engineer @ EDITED',
+        'Senior Full Stack Engineer @ Lyst',
         'Code First Girls Ambassador',
-        'Code First Girls Confidence Coach'
     ],
-    volunteering: [
-        'Code First Girls Instructor: Introduction to Data & SQL',
-        'codebar Coach',
-        'Founders And Coders Mentor',
-        'Next Tech Girls Role Model'
-    ]
 }
 ```
 
@@ -29,35 +22,3 @@ Hannah = {
 ![HTML5](https://img.shields.io/badge/-HTML5-1572B6?style=flat&logo=html5&logoColor=white&link=/)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white&link=/)
 ![PostgreSQL](https://img.shields.io/badge/-Postgres-1572B6?style=flat&logo=postgresql&logoColor=white&link=/)
-
-## Experience
-
-{{< mermaid >}}
-%%{init: {"theme":"neutral"}}%%
-flowchart BT
-
-subgraph 2019
-A["Introduction to Web Development @ Code First Girls"]
-end
-
-subgraph 2020
-direction BT
-B["Full Stack Development Bootcamp @ Founders and Coders"]
-C["Front End Developer @ Aplisay"]
-D["Associate Engineer @ Lyst"]
-end
-
-subgraph 2021
-E["Engineer 1 @ Lyst"]
-end
-
-subgraph 2022
-direction BT
-F["Front End Engineer @ EDITED"]
-G["Full Stack Engineer @ EDITED"]
-end
-
-2019 --> 2020 --> 2021 --> 2022
-B --> C --> D
-F --> G
-{{< /mermaid >}}
