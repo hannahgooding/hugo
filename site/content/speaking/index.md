@@ -2,6 +2,14 @@
 title: "Speaking"
 ---
 
+#### codebar X Lyst
+
+[_Code Switch: Exploring Switching Disciplines in Tech Panel_](https://youtu.be/Kozyx_UNsTo?si=KX31A4lMDDxn4vQD) - July 2024
+
+#### She Chats Tech X Founders And Coders
+
+_Community ConnectHer Panel_ - January 2024
+
 #### Next Tech Girls - Next Tech Fest
 
 _Introduction to Web Development Workshop_ - August 2023
